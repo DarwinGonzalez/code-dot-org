@@ -1,5 +1,5 @@
 
-# Trabajo de fin de grado
+# Repositorio Código - Trabajo de fin de grado
   Título: "Sistemas informáticos para la evaluación del entrenamiento del Pensamiento Computacional".
   
   Despliegue, análisis y codificación de un reto en la plataforma de code.org
