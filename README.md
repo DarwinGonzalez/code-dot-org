@@ -8,7 +8,12 @@
 
 <center><img scr="https://github.com/DarwinGonzalez/code-dot-org/blob/staging/dashboard/app/assets/images/Logo_chica_small_otro.png?raw=true"></img></center>
 
+<p align="center">
+  <img src="https://github.com/DarwinGonzalez/code-dot-org/blob/staging/dashboard/app/assets/images/Logo_chica_small_otro.png?raw=true" title="logo">
 
+  <div align="center"><a href="https://sites.google.com/a/ull.edu.es/pensamiento-computacional/">Pensamiento Computacional ULL</a></div>
+  
+</p>
 
 
 
