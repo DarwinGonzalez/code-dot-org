@@ -1,3 +1,18 @@
+
+# Trabajo de fin de grado
+  Título: "Sistemas informáticos para la evaluación del entrenamiento del Pensamiento Computacional".
+  
+  Despliegue, análisis y codificación de un reto en la plataforma de code.org
+
+  
+
+<center><img scr="https://github.com/DarwinGonzalez/code-dot-org/blob/staging/dashboard/app/assets/images/Logo_chica_small_otro.png?raw=true"></img></center>
+
+
+
+
+
+
 # Code.org
 
 [![Circle CI](https://circleci.com/gh/code-dot-org/code-dot-org/tree/staging.svg?style=svg)](https://circleci.com/gh/code-dot-org/code-dot-org/tree/staging)
